@@ -12,3 +12,5 @@ Built a web app that will scrape through different URLs to locate and store the 
 ![featured_images_facts.png](https://github.com/DanielGandia/Mission-to-Mars/blob/main/Resources/featured_images_facts.png)
 
 ![Mars_hemispheres.png](https://github.com/DanielGandia/Mission-to-Mars/blob/main/Resources/Mars_hemispheres.png)
+
+![mongodb_example.png](https://github.com/DanielGandia/Mission-to-Mars/blob/main/Resources/mongodb_example.png)
